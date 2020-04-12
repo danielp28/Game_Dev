@@ -1,0 +1,11 @@
+﻿  engine.cpp
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.h(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.h(2,1): error C2008: ';': unexpected in macro definition
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Twitch.cpp
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.h(1,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.h(2,1): error C2008: ';': unexpected in macro definition
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...

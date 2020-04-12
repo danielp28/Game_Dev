@@ -1,0 +1,8 @@
+﻿  engine.cpp
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Twitch.cpp
+C:\Users\danie\source\repos\Twitch\Twitch\Engine\engine.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Twitch.vcxproj -> C:\Users\danie\source\repos\Twitch\Debug\Twitch.exe

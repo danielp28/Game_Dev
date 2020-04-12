@@ -1,0 +1,8 @@
+﻿  3D Graphics Engine.cpp
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(180,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(180,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(179,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(179,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(178,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(178,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3D Graphics Engine.vcxproj -> C:\Users\danie\source\repos\3D Graphics Engine\Debug\3D Graphics Engine.exe
