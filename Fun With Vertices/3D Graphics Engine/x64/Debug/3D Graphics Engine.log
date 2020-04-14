@@ -1,0 +1,19 @@
+﻿  3D Graphics Engine.cpp
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\olcConsoleGameEngine.h(767,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\olcConsoleGameEngine.h(1107,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\olcConsoleGameEngine.h(1204,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(61,7): error C3668: 'olcEngine3D::onUserCreate': method with override specifier 'override' did not override any base class methods
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(113,7): error C3668: 'olcEngine3D::onUserUpdate': method with override specifier 'override' did not override any base class methods
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(128,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(128,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(127,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(127,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(126,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(126,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(141,14): error C2259: 'olcEngine3D': cannot instantiate abstract class
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(35): message : see declaration of 'olcEngine3D'
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(141,14): message : due to following members:
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(141,14): message : 'bool olcConsoleGameEngine::OnUserCreate(void)': is abstract
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\olcConsoleGameEngine.h(990): message : see declaration of 'olcConsoleGameEngine::OnUserCreate'
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\3D Graphics Engine.cpp(141,14): message : 'bool olcConsoleGameEngine::OnUserUpdate(float)': is abstract
+C:\Users\danie\source\repos\3D Graphics Engine\3D Graphics Engine\olcConsoleGameEngine.h(991): message : see declaration of 'olcConsoleGameEngine::OnUserUpdate'
