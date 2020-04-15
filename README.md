@@ -28,6 +28,7 @@ Then all we have to do for our rotations is to modify the formula<br>
 90 degrees = i = 12 + y - (x * 4)<br>
 180 degrees = i = 15 - (y * 4) - x<br>
 270 degrees = i = 3 + y + (x * 4)<br>
+This projcet also utilizes One Lone Coder's Console Game Engine
 
 
 
