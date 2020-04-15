@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(103,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(103,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(104,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(104,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(146,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(186,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(248,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(248,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(296,85): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(296,41): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(295,93): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\danie\source\repos\Top DownShotter\Top DownShotter\main.cpp(295,49): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+  Top DownShotter.vcxproj -> C:\Users\danie\source\repos\Top DownShotter\Debug\Top Down Shooter.exe
