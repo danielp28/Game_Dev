@@ -23,7 +23,7 @@ This is an extremely basic version of the classic game Tetris recreated in the W
 Where y is the y index of the 2D array, x is the x index, and w is the width of the array. So if we have a 2D array of contiguous memory that is four slots wide we can use our formula to get a specific value(10)<br>
 i = 2 * 4 + 2 =  10.
 
-Then all we have to do for our rotations is to modify the formula
+Then all we have to do for our rotations is to modify the formula<br>
 0 degrees = i = y * w + x<br>
 90 degrees = i = 12 + y - (x * 4)<br>
 180 degrees = i = 15 - (y * 4) - x<br>
