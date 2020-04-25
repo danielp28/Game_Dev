@@ -1,0 +1,26 @@
+﻿  pew pew.cpp
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(68,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(69,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(74,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(75,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(168,101): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(168,57): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(167,106): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(167,62): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+  pew pew.vcxproj -> C:\Users\danie\source\repos\pew pew\Debug\pew pew.exe

@@ -1,0 +1,36 @@
+﻿  pew pew.cpp
+C:\Users\danie\source\repos\pew pew\pew pew\olcConsoleGameEngine.h(767,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\olcConsoleGameEngine.h(1107,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\olcConsoleGameEngine.h(1204,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(70,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(71,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(76,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(77,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(111,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(111,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(112,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(112,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(165,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(165,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(193,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(222,101): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(222,57): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(221,106): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\danie\source\repos\pew pew\pew pew\pew pew.cpp(221,62): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+  pew pew.vcxproj -> C:\Users\danie\source\repos\pew pew\x64\Debug\pew pew.exe
